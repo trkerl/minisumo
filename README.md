@@ -1,0 +1,2 @@
+# minisumo
+mini sumo kod
